@@ -1,4 +1,4 @@
-# Design_Hub_Robot_Workshop
+# DesignHub Intro to Robotics Workshop
 
 These Arduino .ino files are for the Pitt Design Hub 2017 workshop series on robot design and control. 
 
